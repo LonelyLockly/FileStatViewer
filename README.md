@@ -1,2 +1,5 @@
 # FileStatViewer
-Display list of files, and statistic per line for files that was processed by FileStatGrabber
+В веб-приложении использовались REST-сервисы для отображения данных из БД.
+Для вывода данных на странице использовалась библиотека jQuery.
+
+Пункт 2.5 задания не реализован.
