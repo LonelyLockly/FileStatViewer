@@ -1,0 +1,26 @@
+.error-msg{
+    color:red;
+}
+
+table{
+    border-color: #8b8b83;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-collapse: collapse;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+table td{
+    border-color: #8b8b83;
+    border-style: solid;
+    border-width: 1px 0 0 1px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.js-clickable-row:hover, .js-clickable-row.active{
+    background: #ccc;
+    cursor: pointer;
+}
